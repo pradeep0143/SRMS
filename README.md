@@ -4,9 +4,7 @@ The main objective of the project is to provide the examination result to the st
 This project is useful for students and institutions for getting the results in simple manner.
 
 ## Demo 
-Link: https://novel-cures.000webhostapp.com/  <br/>
-Website is under construction. <br/>
-- Admin Login: admin | Password: 123 <br/>
+- Admin Login: admin | Password: 12345 <br/>
 - For Students: First Year | Roll No: 1011<br/>
 - For Students: Second Year | Roll No: 2021<br/>
 
@@ -31,32 +29,3 @@ Website is under construction. <br/>
 
 - Student can search their result using valid rollid <br/>
 - Student can download the result in the PDF format.
-
-## Screenshot
-
-### Homepage 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG">
-
-### Login 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot02.PNG">
-
-### Dashboard | Manage Student  
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot03.PNG">
-
-### Dashboard | Enter Marks 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot04.PNG">
-
-### Student Marks 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot05.PNG">
-
- 
-
- 
-
- 
-
- 
-
-
- 
-
