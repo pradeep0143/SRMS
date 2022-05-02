@@ -5,8 +5,6 @@ This project is useful for students and institutions for getting the results in 
 
 ## Demo 
 - Admin Login: admin | Password: 12345 <br/>
-- For Students: First Year | Roll No: 1011<br/>
-- For Students: Second Year | Roll No: 2021<br/>
 
 
 ## Technology Used
